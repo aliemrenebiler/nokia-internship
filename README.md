@@ -1,7 +1,11 @@
-# Nokia Internship Projects
+# Nokia Internship
 
-These are the projects that I worked on during my internship at Nokia.
+Projects developed during an internship at Nokia, focused on SR Linux network configuration and Python automation.
 
-They are mostly about SR Linux configurations and automation with Python.
+## Overview
 
-To use these projects, you need an SR Linux device. You can virtually create and use one with Docker or ContainerLab. More details at their documentation.
+The projects in this repository cover SR Linux configurations and automating network operations with Python.
+
+## Prerequisites
+
+These projects require an SR Linux device. If you don't have a physical one, you can spin up a virtual instance using [Docker](https://www.docker.com/) or [ContainerLab](https://containerlab.dev/) — refer to their documentation for setup instructions.
